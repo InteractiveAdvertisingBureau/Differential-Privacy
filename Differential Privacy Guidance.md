@@ -88,25 +88,25 @@ THE STANDARDS, THE SPECIFICATIONS, THE MEASUREMENT GUIDELINES, AND ANY OTHER MAT
 
 ## Table of Contents
 
-- About this document
-- Glossary
-- Table of Contents
-- Why Differential Privacy: Use Cases in Ad Tech
-- What is Differential Privacy?
-  - Differential Privacy vs Other Anonymization Techniques
-  - Key Differential Privacy Features
-- Risks, Individual Protections, and Benefits for Organizations
-  - Vulnerabilities
-- Deep Dive: Attribution
-  - Scenario Description
-  - Risks of Querying Data
-  - Protecting Data in Query Results using DP
-- Considerations
-  - Output Privacy vs. Input Security
-  - Differential Privacy vs. Secure Computation PETs
-  - Privacy vs. Utility
-  - Desired Business Outcomes
-  - Other Considerations
+- [About this document](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#about-this-document)
+- [Glossary](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#glossary)
+- [Table of Contents](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#table-of-contents)
+- [Why Differential Privacy: Use Cases in Ad Tech](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#why-differential-privacy-use-cases-in-ad-tech)
+- [What is Differential Privacy?](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#what-is-differential-privacy)
+  - [Differential Privacy vs Other Anonymization Techniques](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#differential-privacy-vs-other-anonymization-techniques)
+  - [Key Differential Privacy Features](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#key-differential-privacy-features)
+- [Risks, Individual Protections, and Benefits for Organizations](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#risks-individual-protections-and-benefits-for-organizations)
+  - [Vulnerabilities](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#vulnerabilities)
+- [Deep Dive: Attribution](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#deep-dive-attribution)
+  - [Scenario Description](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#scenario-description)
+  - [Risks of Querying Data](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#risks-of-querying-data)
+  - [Protecting Data in Query Results using DP](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#protecting-data-in-query-results-using-dp)
+- [Considerations](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#considerations)
+  - [Output Privacy vs. Input Security](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#output-privacy-vs-input-security)
+  - [Differential Privacy vs. Secure Computation PETs](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#differential-privacy-vs-secure-computation-pets)
+  - [Privacy vs. Utility](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#privacy-vs-utility)
+  - [Desired Business Outcomes](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#desired-business-outcomes)
+  - [Other Considerations](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#other-considerations)
  
 ## Why Differential Privacy: Use Cases in Ad Tech
 
