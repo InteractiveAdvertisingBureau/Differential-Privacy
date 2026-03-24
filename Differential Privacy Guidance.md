@@ -121,7 +121,7 @@ Differential Privacy is a powerful technique for protecting user data in some of
 
 Examples of digital advertising workflows into which Differential Privacy has been or may be incorporated, include:
 
-- **Measurement and attribution analytics** workflows can incorporate Differential Privacy to limit the amount of information that reports reveal about individual users. See the Deep Dive: Attribution section below for a simplified example of how Differential Privacy might be applied in an attribution workflow.
+- **Measurement and attribution analytics** workflows can incorporate Differential Privacy to limit the amount of information that reports reveal about individual users. See the [Deep Dive: Attribution](https://github.com/InteractiveAdvertisingBureau/Differential-Privacy/blob/main/Differential%20Privacy%20Guidance.md#deep-dive-attribution) section below for a simplified example of how Differential Privacy might be applied in an attribution workflow.
   - The **Interoperable Private Attribution** [proposal](https://github.com/patcg-individual-drafts/ipa/) stipulates the use of Differential Privacy in aggregate queries that report on the effectiveness of ads displayed to users.
   - **AppsFlyer** [offers](https://www.appsflyer.com/blog/ceo/aggregated-attribution-solution-ios-14/) differentially private aggregate-level attribution and reporting
 
