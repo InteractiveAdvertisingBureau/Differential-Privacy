@@ -32,7 +32,7 @@ Andrei Lapets, Magnite; Andrew Knox, Decentriq; Brian May, Dstillery; Chris Watt
 
 Shailley Singh, EVP Product & COO, IAB Tech Lab
 
-Miguel Morales, Director Addressability & Privacy Enhancing Technologies (PETs) 
+Rowena Lam, Senior Director, Privacy & Data, IAB Tech Lab
 
 ### About IAB Tech Lab
 
