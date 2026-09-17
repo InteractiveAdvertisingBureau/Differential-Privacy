@@ -265,7 +265,7 @@ There are several popular approaches to secure computation with multiple parties
 |No|	No|	Traditional techniques|
 |No|	Yes|	Differential Privacy|
 |Yes|	No|	Input Security PET|
-|Yes|	Ye|s	Input Security PET and Differential Privacy|
+|Yes|	Yes|	Input Security PET and Differential Privacy|
 
 ### Privacy vs. Utility
 
